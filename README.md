@@ -18,9 +18,10 @@ ChatNexus is a robust Java and Netty–based chat platform that effortlessly han
 ## Quick Start
 
 1. **Download** the latest release ZIP.  
-2. **Unzip** it (the pre‑built JAR and dependencies are already in `target/`).  
-
-### Start the server
-java -cp "target\ChatNexus-1.0-SNAPSHOT.jar;target\dependency\*" com.example.chat.Server 8080
-### Start the client
-java -cp "target\ChatNexus-1.0-SNAPSHOT.jar;target\dependency\*" com.example.chat.Client 127.0.0.1 8080
+2. **Unzip** it (the pre‑built JAR and dependencies are already in `target/`).
+3. **Start the server**
+   ```bash
+   java -cp "target\ChatNexus-1.0-SNAPSHOT.jar;target\dependency\*" com.example.chat.Server 8080
+4. **Start the client**
+   ```bash
+   java -cp "target\ChatNexus-1.0-SNAPSHOT.jar;target\dependency\*" com.example.chat.Client 127.0.0.1 8080
