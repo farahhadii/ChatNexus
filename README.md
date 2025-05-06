@@ -1,8 +1,6 @@
 # ChatNexus
 
-ChatNexus is a robust chat platform built with Java and Netty’s asynchronous, event‑driven framework, capable of handling hundreds of concurrent connections with minimal latency.  
-It delivers real‑time messaging—group chat, direct messages, and simple menu‑driven controls—for seamless user interaction.  
-A Gemini LLM–powered chatbot is integrated so users always have someone (or something) to chat with, even when no other participants are online.
+ChatNexus is a robust Java and Netty–based chat platform that effortlessly handles hundreds of concurrent connections with minimal latency, delivering real‑time group and direct messaging through intuitive, menu‑driven controls—plus an integrated Gemini LLM chatbot ensures there’s always someone (or something) to converse with, even when no other users are online.
 
 ---
 ## Features
@@ -10,17 +8,13 @@ A Gemini LLM–powered chatbot is integrated so users always have someone (or so
 - **Group chat** – broadcast to everyone online  
 - **Direct messages** – one‑to‑one conversations with username validation  
 - **Menu commands** – `/dm`, `/users`, `/menu`, `/quit`, etc.  
-- **Gemini chatbot** – AI companion available 24/7  
-- **Graceful disconnect handling** – DM partner returns to the main menu if the other side leaves  
-
+- **Gemini chatbot** – AI companion available 24/7
 ---
 ## Prerequisites
 
 - **Java 8 or higher** – ensure `java` and `javac` are on your `PATH`  
 - *(Optional)* **Maven** – only required if you want to build from source  
-
 ---
-
 ## Quick Start
 
 1. **Download** the latest release ZIP.  
