@@ -1,0 +1,7 @@
+com\example\chat\Client$1.class
+com\example\chat\Client.class
+com\example\chat\Server$1.class
+com\example\chat\ServerHandler.class
+com\example\chat\Server.class
+com\example\chat\ClientChannelHandler.class
+com\example\chat\ai\AiService.class
