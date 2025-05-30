@@ -1,4 +1,4 @@
-**ChatNexus**
+***ChatNexus***
 
 ChatNexus is a Netty–based chat platform that effortlessly handles hundreds of concurrent connections with minimal latency, delivering real‑time group and direct messaging through intuitive, menu‑driven controls—plus an integrated Gemini LLM chatbot ensures there’s always someone (or something) to converse with, even when no other users are online.
 
